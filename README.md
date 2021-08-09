@@ -1,3 +1,5 @@
-# A-Lightweight-Sampler-for-Efficient-Action-Recognition-via-Self-supervised-Learning
+# A-Lightweight-Sampler-for-Efficient-Action-Recognition-via-Self-supervised-Learning in surveillance system
 
- This is the official code from A Lightweight Sampler for Efficient Action Recognition via Self-supervised Learning.
+Minseok Seo*, Donghyeon Cho*, Sangwoo Lee, Jongchan Park, Daehan Kim, Jaemin Lee, Jingi Ju, Hyeoncheol Noh and Dong-Geol Cho
+
+### Abstract
